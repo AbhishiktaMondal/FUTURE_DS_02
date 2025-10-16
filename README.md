@@ -1,5 +1,5 @@
 # Social Media Campaign Performance Tracker
-This Power BI dashboard analyzes key metrics from social media marketing campaigns.
+This Power BI dashboard analyzes key metrics from social media marketing campaigns. This project aims to help identify high-performing channels and optimize strategies to improve ROI.
 
 ## Overview
 - Tracks Total Clicks, Impressions, Conversions, and CTR
